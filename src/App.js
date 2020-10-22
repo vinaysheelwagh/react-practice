@@ -3,9 +3,9 @@ import React from "react"
 // import Tours from "./components/ToursApp/Tours"
 // import Review from "./components/ReviewApp/Review"
 // import GroceryList from "./components/GroceryListApp/GroceryList"
-import TryComponent from "./components/PracApp/TryComponent"
-
+//import TryComponent from "./components/PracApp/TryComponent"
+import ShoppingCart from "./components/ShoppingCart/Cart"
 const App = () =>{
-    return <TryComponent />
+    return <ShoppingCart />
 }
 export default App
